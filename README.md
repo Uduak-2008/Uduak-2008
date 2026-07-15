@@ -1,6 +1,6 @@
  👋 Hi, I'm Uduak-Abasi Udoma (aka Blaq Zenda) 🥰
 
-* Frontend Developer* | *Self-taught* | 📍 *Abuja, Nigeria*
+* Frontend Developer* | *Self-taught* | 📍 *Uyo, Nigeria*
 
 I started learning to code in *February 2026* — completely self-taught.  
 I believe no one was born with coding skills — just motivation and consistency.
