@@ -29,7 +29,6 @@ I believe no one was born with coding skills — just motivation and consistency
 | Project | Description |
 |---------|-------------|
 | *My Portfolio* | My personal portfolio built with HTML & CSS ([Live Demo](https://uduak-2008.github.io/My-Portfolio/)) |
-| *Calculator App* | A basic calculator (JavaScript coming soon!) |
 
 ---
 
@@ -51,7 +50,7 @@ I believe no one was born with coding skills — just motivation and consistency
 
 ## 📊 GitHub Stats
 
-![Uduak-2008's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uduak-2008&show_icons=true&theme=radical)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uduak-2008&theme=radical)
 
 ---
 
